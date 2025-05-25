@@ -71,7 +71,7 @@ AirportPollutionWorkbench/
 │   ├── SWO.FCStd            # Пример геометрии Шереметьево
 │   ├── Dmdv.FCStd           # Пример геометрии Домодедово
 │   └── example_run.md       # Инструкция по запуску
-
+```
 ##  Как использовать
 
 1. Скопируйте папку `AirportPollutionWorkbench` в директорию FreeCAD:
