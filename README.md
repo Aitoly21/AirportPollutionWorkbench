@@ -46,7 +46,7 @@
 
 Создайте новое окружение:
 
-```
+```bash
 conda create -n airport python=3.8
 conda activate airport
 conda install -c conda-forge osmnx geopandas matplotlib pandas
@@ -56,7 +56,7 @@ conda install -c conda-forge osmnx geopandas matplotlib pandas
 
 ##  Структура проекта
 
-```
+```bash
 AirportPollutionWorkbench/
 ├── __init__.py
 ├── ImportGeometryCommand.py
@@ -76,7 +76,7 @@ AirportPollutionWorkbench/
 
 1. Скопируйте папку `AirportPollutionWorkbench` в директорию FreeCAD:
    
-   ```
+   ```bash
    # Пример для Windows:
    C:/Users/<ВАШ_ПОЛЬЗОВАТЕЛЬ>/AppData/Roaming/FreeCAD/Mod/
    ```
